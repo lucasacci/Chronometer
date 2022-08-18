@@ -16,7 +16,6 @@ setInterval(() => {
 
         time.innerHTML = format(accumulated);
 
-
 }, 1000/60);
 
 function format(mil){
